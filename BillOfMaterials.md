@@ -2,3 +2,5 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
+|Thrust Commander|1|$68.00|https://bluerobotics.com/store/comm-control-power/control/cmdr-r1-rp/|
+|Total: |1|$68.00| |
